@@ -1,0 +1,11 @@
+Instagram hesabı için aşağıdaki bilgilere dayanarak 30 günlük içerik planı oluştur:
+
+Hesap adı: {account_name}
+Sektör: {industry}
+Dil: {language}
+Hedef ülke: {target_country}
+Hedef kitle: {target_audience}
+Amaç: {goal}
+Yaklaşan özel günler: {holidays}
+
+Her gün için yaratıcı ve etkileşim odaklı içerik önerileri ver. İçerikler ilgi çekici başlık, kısa açıklama ve içerik türü (reels, karusel, story) içersin. Kültürel hassasiyetlere uygun olsun. Dili {language} olsun.

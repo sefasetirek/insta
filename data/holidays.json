@@ -1,0 +1,12 @@
+{
+  "turkey": [
+    {"name": "19 Mayıs Atatürk'ü Anma", "date": "2025-05-19"},
+    {"name": "Ramazan Bayramı", "date": "2025-03-31"},
+    {"name": "Anneler Günü", "date": "2025-05-11"}
+  ],
+  "france": [
+    {"name": "Noel", "date": "2025-12-25"},
+    {"name": "Paskalya", "date": "2025-04-20"},
+    {"name": "Bastille Günü", "date": "2025-07-14"}
+  ]
+}
